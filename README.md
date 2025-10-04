@@ -104,12 +104,10 @@ y hacemos click para registrarnos y verificar que se esta conectando a la Base d
 
 ## Autores ✒️
 
-*Desarrolladores:*
+*Desarrollador:*
 
-- **Bernardo Bossio** - *Director Principal*
-- **Jesus Indriago** - *Desarrollador Lider*
 - **Jorge Niño** - *Desarrollador Frontend*
 
 ---
 
-⌨️ con ❤️ por [GeekHACK](https://geekhack.net.ve) 😊
+⌨️ con ❤️ por [Jorge Niño] 😊
