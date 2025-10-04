@@ -110,4 +110,4 @@ y hacemos click para registrarnos y verificar que se esta conectando a la Base d
 
 ---
 
-⌨️ con ❤️ por [Jorge Niño] 😊
+⌨️ con ❤️ por Jorge Niño 😊
