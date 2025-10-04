@@ -1,0 +1,253 @@
+/*productos*/
+
+.mc {
+    float: right;
+    background: #009688;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.bootstrap-growl {
+    width: 350px !important;
+    text-align: center!important;
+    color: #ffffff!important;
+    background-color: #2196F3!important;
+    border: 3px solid!important;
+    border-color: #4CAF50!important;
+    font-size: 13px!important;
+    font-family: monospace!important;
+    padding: 5px!important;
+}
+
+.msj {
+    color: #ffffff;
+    background-color: #4CAF50;
+    border-color: #2196F3;
+    font-size: 12px;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.msj2 {
+    color: #000000;
+    background-color: #FFC107;
+    border: 2px solid;
+    border-color: #2196F3;
+    font-size: 12px;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.msj3 {
+    color: #000000;
+    background-color: rgb(250, 44, 21);
+    border: 2px solid;
+    border-color: #2196F3;
+    font-size: 12px;
+    font-family: monospace;
+    padding: 8px;
+}
+
+.spinner {
+    width: 5rem!important;
+    height: 5rem!important;
+}
+
+.bancoi {
+    color: #009688;
+    font: caption;
+    font-size: inherit;
+}
+
+.cboncoi {
+    color: #E91E63;
+    font: caption;
+    font-size: inherit;
+}
+
+.envi {
+    color: blue;
+    opacity: 0;
+}
+
+.envim {
+    color: blue;
+    opacity: 1;
+}
+
+.imgcargador {
+    border: 3px solid;
+    border-color: #2196F3;
+    border-radius: 50px;
+    width: 100px!important;
+    height: 100px!important;
+}
+
+.imgcargadorr {
+    border-color: #E91E63!important;
+}
+
+.imgcargadora {
+    border-color: #FFEB3B!important;
+}
+
+.imgcargadorv {
+    border-color: #009688!important;
+}
+
+.form-control {
+    border: 1px solid #4CAF50 !important;
+}
+
+.mostrard {
+    display: block!important;
+    ;
+}
+
+.ocultard {
+    display: none!important;
+    ;
+}
+
+.add {
+    float: right;
+    background: #4CAF50;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.mostrar {
+    visibility: visible;
+}
+
+.ocultar {
+    visibility: hidden;
+}
+
+.modal-header {
+    background: url("../img/geekhack-logom.png")!important;
+    background-position: center center!important;
+    background-repeat: no-repeat!important;
+    background-attachment: fixed!important;
+    background-size: cover!important;
+    color: #fff;
+}
+
+.card-header {
+    background: url("../img/geekhack-logom.png")!important;
+    background-position: center center!important;
+    background-repeat: no-repeat!important;
+    background-attachment: fixed!important;
+    background-size: cover!important;
+    color: #040404;
+}
+
+.mdr {
+    float: right;
+    background: #E91E63;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.mdb {
+    float: right;
+    background: #2196F3;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.cd {
+    float: right;
+    background: #FF5722;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.closem {
+    margin: 5px;
+    text-align: right !important;
+}
+
+.close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+
+.ad {
+    float: right;
+    background: #4CAF50;
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 25px;
+}
+
+
+/*productos*/
+
+
+/*dashboard*/
+.chart div {
+    font: 10px sans-serif;
+    background-color: green;
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: white;
+  }
+.home {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.im {
+    width: 50px;
+}
+
+.espacios {
+    padding-top: 70px;
+}
+
+
+/*dashboard*/
+
+.correcto {
+    border: 2px solid #009688!important;
+}
+
+.incorrecto {
+    border: 2px solid #e63636!important;
+}
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../img/geekhack-logom.png') 50% 50% no-repeat rgb(249, 249, 249);
+    opacity: .8;
+}
+
+.im2 {
+    width: 183px;
+    padding-bottom: 20px;
+}
+
+
+/*inicio*/
